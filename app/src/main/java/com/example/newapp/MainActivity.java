@@ -1,5 +1,4 @@
 package com.example.newapp;
-
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
